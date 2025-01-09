@@ -214,9 +214,9 @@ to PyPI follow these steps:
 
 6.  Tag the new release of the project on GitHub with the version number
     from the `setup.py` file. For example if the version number in
-    `setup.py` is 0.0.1 then do:
+    `setup.py` is 0.0.2 then do:
 
-        git tag 0.0.1
+        git tag 0.0.2
         git push --tags
         
 
@@ -232,3 +232,4 @@ to PyPI follow these steps:
   [5]: https://www.python.org
   [CKAN]: https://img.shields.io/badge/ckan-2.9%20%7C%202.10-yellow
   [6]: https://www.ckan.org
+
